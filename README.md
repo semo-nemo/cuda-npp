@@ -17,5 +17,10 @@ $ cd <sample_dir>
 $ make clean build
 $ make run
 ```
+![Original photo in colors](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_original.jpg?raw=true) 
 
-![alt text](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_filterLaplaceBorder.jpg?raw=true) 
+![Black and White image, which is an input to the NPP Filter](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_bw.jpg?raw=true) 
+
+![Output image converted using Laplace Filter](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_filterLaplaceBorder.jpg?raw=true) 
+
+![Output image converted using Box Filter, code given in the lab](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_boxFilter.jpg?raw=true) 
