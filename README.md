@@ -17,7 +17,7 @@ $ cd <sample_dir>
 $ make clean build
 $ make run
 ```
-![Original photo in colors](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_original.jpg?raw=true) 
+![Original photo in colors](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_original.JPG?raw=true) 
 
 ![Black and White image, which is an input to the NPP Filter](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_bw.jpg?raw=true) 
 
