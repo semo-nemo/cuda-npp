@@ -17,3 +17,4 @@ $ cd <sample_dir>
 $ make clean build
 $ make run
 
+![alt text](https://github.com/semo-nemo/cuda-npp/blob/main/semonemo_filterLaplaceBorder.jpg?raw=true) 
